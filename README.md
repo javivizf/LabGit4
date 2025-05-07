@@ -12,7 +12,11 @@ Los proyectos Web contienen todos los recursos `Web creados` y utilizados al des
 
 Aunque el proyecto Web está estructurado en el sistema de archivos de acuerdo con el estándar de aplicaciones Web de Java EE a efectos de despliegue, la vista Explorador de proyectos está diseñada para mostrar la visualización más cómoda de los recursos del proyecto que se utilizan cuando se está desarrollando la aplicación Web. Cuando se termina de desarrollar la aplicación Web, se utiliza el proyecto Web para desplegar los recursos correctos en el servidor. Estos recursos se empaquetarán en un archivo denominado archivo WAR (Web Archive).
 
-1. Conceptos relacionados
+Este sitio lo puedes buscar en las noticias de hoy [Ir al periódico el País](https://www.elpais.es/).
+
+
+
+> 1. Conceptos relacionados
 2. Proyectos Web estáticos
 3. Aplicaciones y proyectos Web dinámicos
 4. Archivos de archivado Web (WAR)
