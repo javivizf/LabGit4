@@ -27,4 +27,4 @@ Este sitio lo puedes buscar en las noticias de hoy [Ir al periódico el País](h
 - [ ] Crear un proyecto Web estático  
 - [ ] Crear un proyecto Web dinámico  
 
-![Ojo al aviso que hay en el Parque Natural](https://myoctocat.com/assets/8images/base-octocat.svg)
+![Ojo al aviso que hay en el Parque Natural](carpe1.JPG)
